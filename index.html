@@ -1,12 +1,9 @@
-
 ---
-
 layout: default
 title:  "Table of Contents"
 creation date:   2017-02-03 19:45:00 -0800
 post_variable: footer.html
 description: list of blog posts
-
 ---
 
 <div id="posts">
@@ -19,7 +16,7 @@ description: list of blog posts
 </div>
 
 <div id="pages">
-  <h2>Pages</h2>
+  <h1>Pages</h1>
   <ul>
     {% for page in site.html_pages %}
       {% if page.title %}
@@ -28,6 +25,4 @@ description: list of blog posts
     {% endfor %}
   </ul>
 </div>
-
-{% include {{ page.post_variable }} %}
 
