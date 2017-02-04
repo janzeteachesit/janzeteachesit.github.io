@@ -5,6 +5,7 @@ layout: post
 title:  "A Draft Post"
 creation date:   2017-02-03 16:18:00 -0800
 categories: 
+permalink: none
 post_variable: footer.html
 
 ---
