@@ -1,4 +1,3 @@
-
 ---
 
 layout: default
@@ -8,7 +7,7 @@ post_variable: footer.html
 
 ---
 
-# About
+# {{ post.title }}
 
 
 {% include {{ page.post_variable }} %}
