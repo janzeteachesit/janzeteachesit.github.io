@@ -15,7 +15,6 @@ description: list of blog posts
   </ul>
 </div>
 
-
 <div id="pages">
   <h2>Pages</h2>
   <ul>
@@ -26,6 +25,8 @@ description: list of blog posts
     {% endfor %}
   </ul>
 </div>
+
+---
 
 [contact](./contact.md) | [other](./other.md) | [about](./about.md)
 
