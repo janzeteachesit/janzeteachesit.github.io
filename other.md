@@ -8,7 +8,7 @@ post_variable: footer.html
 
 ---
 
-# Other
+# {{ post.title }}
 
 
 {% include {{ page.post_variable }} %}
