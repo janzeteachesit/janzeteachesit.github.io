@@ -10,7 +10,7 @@ description: list of blog posts
 ---
 
 <div id="posts">
-  <h2>Table of Contentss</h2>
+  <h1>{{ post.title }}</h1>
   <ul>
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
