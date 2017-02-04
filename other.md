@@ -6,3 +6,7 @@ post_variable: footer.html
 ---
 
 # Other
+
+
+
+[contact](./contact.md) | [other](./other.md) | [about](./about.md)
