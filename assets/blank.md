@@ -1,3 +1,3 @@
 ---
-publish: false
+published: false
 ---

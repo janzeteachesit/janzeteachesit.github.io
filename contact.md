@@ -8,7 +8,4 @@ post_variable: footer.html
 
 ---
 
-# {{ post.title }}
-
-
-{% include {{ page.post_variable }} %}
+# Contact

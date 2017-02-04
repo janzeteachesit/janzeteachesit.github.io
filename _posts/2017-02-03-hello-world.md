@@ -1,12 +1,9 @@
-
 ---
-
 layout: post
 title:  "A Draft Post"
 creation date:   2017-02-03 19:48:00 -0800
 categories: hello_world 
 post_variable: footer.html
-
 ---
 
 * [Writing posts](https://jekyllrb.com/docs/posts/)
