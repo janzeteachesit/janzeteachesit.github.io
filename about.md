@@ -7,7 +7,7 @@ post_variable: footer.html
 
 # About
 
-## Other GitHub 
+## Other GitHub Stuff
 * [Forever Learning](https://janzeteachesit.github.io/Learning-Diary/)
 * [Learning To Do list](./learning-to-do-list.md) 
 * [100 Days of Writing](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/readme.md) 
