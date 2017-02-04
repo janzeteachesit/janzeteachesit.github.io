@@ -3,8 +3,8 @@
 
 layout: post
 title:  "A Draft Post"
-creation date:   2017-02-03 16:18:01 -0800
-categories: jekyll update
+creation date:   2017-02-03 16:18:00 -0800
+categories: 
 post_variable: footer.html
 
 ---
