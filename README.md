@@ -27,5 +27,5 @@ description: list of blog posts
   </ul>
 </div>
 
-[contact](./contact.md) | [other](./other.md) \ [about](./about.md)
+[contact](./contact.md) | [other](./other.md) | [about](./about.md)
 
