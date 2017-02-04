@@ -1,12 +1,9 @@
-
 ---
-
 layout: default
 title:  "Table of Contents"
 creation date:   2017-02-03 19:45:00 -0800
 post_variable: footer.html
 description: list of blog posts
-
 ---
 
 <div id="posts">
