@@ -7,7 +7,7 @@ description: list of blog posts
 ---
 
 <div id="posts">
-  <h1>{{ post.title }}</h1>
+  <h1>Table of Contents</h1>
   <ul>
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -15,6 +15,7 @@ description: list of blog posts
   </ul>
 </div>
 
+<!--
 <div id="pages">
   <h2>Pages</h2>
   <ul>
@@ -25,7 +26,6 @@ description: list of blog posts
     {% endfor %}
   </ul>
 </div>
-
-{% include {{ page.post_variable }} %}
+-->
 
 
