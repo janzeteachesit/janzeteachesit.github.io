@@ -1,32 +1,19 @@
----
-layout: default
-title:  "Table of Contents"
-creation date:   2017-02-03 19:45:00 -0800
-post_variable: footer.html
-description: list of blog posts
----
+# janzeteachesit.github.io
+## Website for Janzeteachesit
 
-<div id="posts">
-  <h1>Table of Contents</h1>
-  <ul>
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+> STUFF
 
-<div id="pages">
-  <h2>Pages</h2>
-  <ul>
-    {% for page in site.html_pages %}
-      {% if page.title %}
-        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-</div>
+### [\(Summary of\) What's Inside ](SUMMARY.md)
 
----
+___
 
+## Ways to read "Re-framing Planning and Teaching as a Design Challenge"
+- [The GitHub Repository](https://github.com/janzeteachesit/janzeteachesit.github.io)
+- [As a GitBook](https://janzeteachesit.gitbooks.io/janzeteachesit/content/), even Drafts
+- [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/), even Drafts
+- [raw notes and docs - GDrive folder](https://drive.google.com/open?id=0BysMfTbvAUUVckNKU2hhM09mbkk)
+
+
+[Publishing with GitHub 20170503](https://drive.google.com/open?id=1Tu_b1oixurg9lId2z3LH_ZiLz1sH9sYD9ypdmZGwE9c)
 [contact](contact.md) | [other](other.md) | [about](about.md)
 
