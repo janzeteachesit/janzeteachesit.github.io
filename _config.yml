@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
+title: janzeteachesit
+description: STUFF
 permalink: none
+layout: post
 gems:
   - jekyll-feed
