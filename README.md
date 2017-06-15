@@ -7,7 +7,7 @@
 
 ___
 
-## Ways to read "Re-framing Planning and Teaching as a Design Challenge"
+### Ways to read "janzeteachesit"
 - [The GitHub Repository](https://github.com/janzeteachesit/janzeteachesit.github.io)
 - [As a GitBook](https://janzeteachesit.gitbooks.io/janzeteachesit/content/), even Drafts
 - [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/), even Drafts
