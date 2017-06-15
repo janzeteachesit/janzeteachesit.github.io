@@ -28,5 +28,5 @@ description: list of blog posts
 
 ---
 
-[contact](./contact.md) | [other](./other.md) | [about](./about.md)
+[contact](contact.md) | [other](other.md) | [about](about.md)
 
