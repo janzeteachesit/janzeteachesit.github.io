@@ -1,5 +1,5 @@
-- [20170614](pub/20170614.md)
-- [A Draft Post](pub/20170203.md)
+- [20170614](published/20170614.md)
+- [A Draft Post](published/20170203.md)
 
 ___
 
