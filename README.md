@@ -9,7 +9,7 @@ ___
 
 ### Ways to read "janzeteachesit"
 - [The GitHub Repository](https://github.com/janzeteachesit/janzeteachesit.github.io)
-- [As a GitBook](https://janzeteachesit.gitbooks.io/janzeteachesit/content/), even Drafts
+- [As a GitBook](https://janzeteachesit.gitbooks.io/janzeteachesit/), even Drafts
 - [As Web Pages \(gh_pages\)](https://janzeteachesit.github.io/), even Drafts
 - [raw notes and docs - GDrive folder](https://drive.google.com/open?id=0BysMfTbvAUUVckNKU2hhM09mbkk)
 
