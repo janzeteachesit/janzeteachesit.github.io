@@ -1,11 +1,3 @@
----
-layout: post
-title:  "A Draft Post"
-creation date:   2017-02-03 19:48:00 -0800
-categories: hello_world 
-post_variable: footer.html
----
-
 * [Writing posts](https://jekyllrb.com/docs/posts/)
 * [Working with drafts](https://jekyllrb.com/docs/drafts/)
 * https://jekyllrb.com/docs/structure/
@@ -22,6 +14,3 @@ For example, the following are examples of valid post filenames:
 
 Tip: Link to other posts
 Use the post_url tag to link to other posts without having to worry about the URL's breaking when the site permalink style changes.
-
-
-{% include {{ page.post_variable }} %}
