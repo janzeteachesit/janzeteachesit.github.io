@@ -5,3 +5,6 @@ permalink: none
 layout: post
 gems:
   - jekyll-feed
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
