@@ -5,7 +5,6 @@
 
 ___
 
-- [About](about.md)
-- [Contact](contact.md)
 - [Where to Find me](profiles.md)
-- [Other](other.md)
+
+[contact](contact.md) | [other](other.md) | [about](README.md)
