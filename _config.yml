@@ -3,8 +3,8 @@ title: janzeteachesit
 description: STUFF
 permalink: none
 layout: post
+safe: false
 gems:
-  - jekyll-feed
-  - jemoji
-  - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-feed
+
