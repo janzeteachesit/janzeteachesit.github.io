@@ -1,7 +1,7 @@
 # About "janzeteachesit.github.io"
 ## "What have I gotten myself into?"
 
-### [\(Summary of\) What's Inside ](SUMMARY.md)
+### [Book TOC](SUMMARY.md)  \| [Site POSTS](posts.html)
 
 ___
 
