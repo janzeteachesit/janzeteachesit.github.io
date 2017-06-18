@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 title: janzeteachesit
 layout: post
 permalink: /:categories/:year:month:day/:title.html
