@@ -13,7 +13,6 @@ ___
 
 ___
 
-- [Current Diary Entry](_posts/20170617.md)
 - [GitHub Issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aissue+author%3Ajanzeteachesit)
 - [Publishing with GitHub 20170503](https://drive.google.com/open?id=1Tu_b1oixurg9lId2z3LH_ZiLz1sH9sYD9ypdmZGwE9c)
 
