@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: janzeteachesit
 layout: post
+permalink: /:categories/:year:month:day/:title.html
 gems:
   - jekyll-sitemap
   - jekyll-feed
