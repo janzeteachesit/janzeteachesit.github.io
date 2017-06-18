@@ -1,9 +1,6 @@
 theme: jekyll-theme-slate
 title: janzeteachesit
-description: STUFF
-permalink: none
 layout: post
-safe: false
 gems:
   - jekyll-sitemap
   - jekyll-feed
