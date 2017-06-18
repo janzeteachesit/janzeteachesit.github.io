@@ -1,7 +1,7 @@
-- [summer 2017](_posts/2017-summer-list.md)
-- [20170617](_posts/20170617.md)
-- [20170615](_posts/20170615.md)
-- [20170614](_posts/20170614.md)
+- [summer 2017](_posts/2017-06-15-summer-2017-prep.md)
+- [20170617](_posts/2017-06-17-june-17.md)
+- [20170615](_posts/2017-06-15-june-15.md)
+- [20170614](_posts/2017-06-14-june-14.md)
 
 ___
 
