@@ -28,6 +28,16 @@
 - [Functional programming for deep learning – Towards Data Science – Medium](https://medium.com/towards-data-science/functional-programming-for-deep-learning-bc7b80e347e9)
 - [How I’m unlearning high school: drunk algebra – Student Voices](https://mystudentvoices.com/how-i-am-unlearning-high-school-part-9-drunk-algebra-ae5063812c9b)
 - [How to be a great (CS) teacher – Bits and Behavior – Medium](https://medium.com/bits-and-behavior/how-to-be-a-great-cs-teacher-b8a0a2a3600f)
+  - https://medium.com/bits-and-behavior/how-to-be-a-great-cs-teacher-b8a0a2a3600f | How to be a great (CS) teacher – Bits and Behavior – Medium
+  - https://medium.com/bits-and-behavior/how-i-applied-learning-sciences-to-undergraduate-design-education-f0c46846ca13 | How I applied learning sciences to undergraduate design education
+  - https://medium.com/bits-and-behavior/the-invisibility-of-prior-knowledge-e9ea1811b5e0 | The invisibility of prior knowledge – Bits and Behavior – Medium
+  - https://medium.com/bits-and-behavior/my-sabbatical-stretch-goal-teaching-high-school-cs-b98fc08524dd | My sabbatical stretch goal: teaching high school CS
+  - https://medium.com/@andyjko | Andy J. Ko – Medium
+  - https://medium.com/bits-and-behavior | Bits and Behavior – Medium
+  - https://github.com/hyperStroop/hyperStroop | hyperStroop/hyperStroop: INFO 461: Cooperative Software Design
+  - https://github.com/HomeDivision/Choreless | HomeDivision/Choreless: INFO461 Project
+  - https://github.com/facebookincubator/create-react-app | facebookincubator/create-react-app: Create React apps with no build configuration.
+  - http://faculty.washington.edu/ajko/info461/ | INFO 461 Cooperative Software Design
 - [How to deliver effective classroom consequences – Student Voices](https://mystudentvoices.com/how-to-deliver-effective-classroom-consequences-d97f851678c5)
 - [Ira David Socol, I checked out the link. The 7 pathways discussed seem excellent!](https://medium.com/@paultellsworth/ira-david-socol-i-checked-out-the-link-the-7-pathways-discussed-seem-excellent-a16d935d2e46)
 - [John Dewey on Normative Theories – Vertical Learning – Medium](https://medium.com/vertical-learning/john-dewey-on-normative-theories-9292521f48b5)
