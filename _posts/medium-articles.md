@@ -62,3 +62,7 @@
 - [Why Keeping a Daily Journal Could Change Your Life – The Mission – Medium](https://medium.com/the-mission/why-keeping-a-daily-journal-could-change-your-life-9a4c11f1a475)
 - [Your digest – Medium](https://medium.com/me/digest)
 - [Your Medium private bookmarks](https://medium.com/browse/bookmarks)
+
+
+## Other
+-[Emergent Era](https://medium.com/emergent-era)
