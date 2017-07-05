@@ -65,4 +65,4 @@
 
 
 ## Other
--[Emergent Era](https://medium.com/emergent-era)
+- [Emergent Era](https://medium.com/emergent-era)
