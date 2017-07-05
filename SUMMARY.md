@@ -4,6 +4,7 @@
 - [20170614](_posts/2017-06-14-june-14.md)
 
 ___
-
+## Links
+- [Medium Articles](_posts/medium-articles.md)
 
 [Contact](contact.md) | [About](README.md) | [Where to find me](profiles.md) 
