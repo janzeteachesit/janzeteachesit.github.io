@@ -26,7 +26,6 @@
 - [DeepMind’s Relational Networks?—?Demystified – Hacker Noon](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
 - [Epistemology of Politics vs. Politics of Epistemology](https://medium.com/@h27kim/epistemology-of-politics-vs-politics-of-epistemology-582fda785c77)
 - [Functional programming for deep learning – Towards Data Science – Medium](https://medium.com/towards-data-science/functional-programming-for-deep-learning-bc7b80e347e9)
-- [How did you not unlearn how to play? – Hacker Noon](https://hackernoon.com/how-did-you-not-unlearn-how-to-play-b60fa38af109)
 - [How I Unlearn – NewCo Shift](https://shift.newco.co/how-i-unlearn-e515078cce67)
 - [How I’m unlearning high school: drunk algebra – Student Voices](https://mystudentvoices.com/how-i-am-unlearning-high-school-part-9-drunk-algebra-ae5063812c9b)
 - [How to be a great (CS) teacher – Bits and Behavior – Medium](https://medium.com/bits-and-behavior/how-to-be-a-great-cs-teacher-b8a0a2a3600f)
