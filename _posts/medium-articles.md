@@ -1,4 +1,4 @@
-# Medium
+# Medium Articles
 
 - [Medium – Read, write and share stories that matter](https://medium.com/)
 - [Your digest – Medium](https://medium.com/me/digest)
