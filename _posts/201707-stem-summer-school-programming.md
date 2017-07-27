@@ -59,5 +59,4 @@
 - [“Be Internet Awesome”: Helping kids make smart decisions online - Google](https://www.blog.google/topics/families/be-internet-awesome-helping-kids-make-smart-decisions-online/)
 - [Interland - Google](https://beinternetawesome.withgoogle.com/interland?utm_source=keword&utm_medium=blog-pr&utm_campaign=bia-blog-game)
 - https://code.org/educate/csp
-
-- [](https://beinternetawesome.withgoogle.com/resources?utm_source=keword&utm_medium=blog-pr&utm_campaign=bia-blog-curic)
+- [Internet Aweome resources - Google](https://beinternetawesome.withgoogle.com/resources?utm_source=keword&utm_medium=blog-pr&utm_campaign=bia-blog-curic)
