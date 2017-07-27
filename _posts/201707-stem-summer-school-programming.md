@@ -18,11 +18,14 @@
 - [Computer Science Fundamentals Overview - Code.org](https://code.org/educate/curriculum/elementary-school)
 - [Overview of Code Studio Courses - Coce.org](https://code.org/educate/curriculum/courses)
 - [Accelerated Intro to CS Course - Code.org](https://studio.code.org/s/20-hour) - This 20-hour course covers the core computer science and programming concepts in courses 2-4. The course is designed for use with ages 10-18. Check out courses 2-4 for a more complete experience!
-- [Introduction to Computer Science - Code.org](https://studio.code.org/s/20-hour/stage/1/puzzle/1)
+- [20Hr - U01L01 Intro to Computer Science - Code.org](https://studio.code.org/s/20-hour/stage/1/puzzle/1)
 
 ### Jump in
 - https://studio.code.org/projects/artist/QvznYNmx3UqGTpSfTLQwDt8j7kFGdgkWtgSccd8RvZs
 - https://studio.code.org/projects/applab/EvT12NoTlrK8Gr0jiHIYZ2oDVioSfOUJO2yfhnNK_Ck
+- https://code.org/educate/csp/widgets#pixelation
+https://code.org/educate/csp/widgets
+
 
 ### Links
 - [2016 Hour of Code activities at Code.org](http://blog.janzeteachesit.net/2016/12/20161206-hour-of-code-2016.html)
