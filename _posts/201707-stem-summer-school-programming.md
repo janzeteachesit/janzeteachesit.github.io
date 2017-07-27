@@ -20,9 +20,10 @@
 - [Accelerated Intro to CS Course - Code.org](https://studio.code.org/s/20-hour) - This 20-hour course covers the core computer science and programming concepts in courses 2-4. The course is designed for use with ages 10-18. Check out courses 2-4 for a more complete experience!
 - [20Hr - U01L01 Intro to Computer Science - Code.org](https://studio.code.org/s/20-hour/stage/1/puzzle/1)
 - [What is CS Discoveries? - Code.org](https://code.org/educate/csd) - Computer Science Discoveries (CS Discoveries) is an introductory computer science course that empowers students to create authentic artifacts and engage with computer science as a medium for creativity, communication, problem solving, and fun.
-- https://curriculum.code.org/csd/unit1/
+- [CSD U1 Problem-Solving](https://studio.code.org/s/csd1/) - Unit 1 is a highly interactive and collaborative introduction to the field of computer science, as framed within the broader pursuit of solving problems. You’ll practice using a problem solving process to address a series of puzzles, challenges, and real world scenarios. Next, you’ll learn how computers input, output, store, and process information to help humans solve problems. The unit concludes with a project in which you design an application that helps solve a problem of your choosing.
 - https://studio.code.org/s/csd1/stage/1/puzzle/1
-- [CSD U3 Animations and Games - COde.org](https://studio.code.org/s/csd3) - In Unit 3, you’ll build on your coding experience as you program animations, interactive art, and games in Game Lab. The unit starts off with simple shapes and builds up to more sophisticated sprite-based games, using the same programming concepts and the design process computer scientists use daily. In the final project, you’ll develop a personalized, interactive program.
+- https://curriculum.code.org/csd/unit1/
+- [CSD U3 Animations and Games - Code.org](https://studio.code.org/s/csd3) - In Unit 3, you’ll build on your coding experience as you program animations, interactive art, and games in Game Lab. The unit starts off with simple shapes and builds up to more sophisticated sprite-based games, using the same programming concepts and the design process computer scientists use daily. In the final project, you’ll develop a personalized, interactive program.
 - https://studio.code.org/s/csd3/stage/1/puzzle/1
 - https://curriculum.code.org/csd/unit3/
 
