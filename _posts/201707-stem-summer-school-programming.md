@@ -1,5 +1,14 @@
 # Programming
 ## STEM Summer School 2017
+### Programming from an Hardware Perspective
+1. Arduino
+2. Raspberry Pi (arm)
+3. Intenet
+4. PC (x86/amd64)
+  1. Wintel
+  2. Mac
+5. Android
+6. iOS
 
 
 ### Links
@@ -17,4 +26,4 @@
 - [https://www.robotmesh.com/studio](Robot Mesh - Robotics Controllers and Kits)
 - [https://www.robotmesh.com/vexiq](VEX IQ)
 - [https://www.robotmesh.com/flowol-software](Flowol Software)
-- []()
+- [Computing platform - Wikipedia](https://www.wikiwand.com/en/Computing_platform) - A computing platform is the environment in which a piece of software is executed. It may be the hardware or the operating system (OS), even a web browser or other underlying software, as long as the program code is executed in it. Computing platforms have different abstraction levels, including a computer architecture, an OS, or runtime libraries.[1] A computing platform is the stage on which computer programs can run.
