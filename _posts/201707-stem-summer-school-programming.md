@@ -5,8 +5,8 @@
 2. Raspberry Pi (arm)
 3. Intenet
 4. PC (x86/amd64)
-  1. Wintel
-  2. Mac
+   1. Wintel
+   2. Mac
 5. Android
 6. iOS
 
