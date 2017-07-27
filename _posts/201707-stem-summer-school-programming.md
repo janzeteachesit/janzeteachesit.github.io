@@ -26,7 +26,19 @@
 - [CSD U3 Animations and Games - Code.org](https://studio.code.org/s/csd3) - In Unit 3, you’ll build on your coding experience as you program animations, interactive art, and games in Game Lab. The unit starts off with simple shapes and builds up to more sophisticated sprite-based games, using the same programming concepts and the design process computer scientists use daily. In the final project, you’ll develop a personalized, interactive program.
 - https://studio.code.org/s/csd3/stage/1/puzzle/1
 - https://curriculum.code.org/csd/unit3/
-
+- https://classroom.google.com/h | Classes
+- https://studio.code.org/home | Code.org
+- https://code.org/educate | Educator Overview | Code.org
+- http://forum.code.org/top/all | All Time topics - Code.org Professional Learning Community
+- http://blog.code.org/post/162166074823/codeorg-launches-new-cs-discoveries-course | ANYBODY CAN LEARN — Code.org launches new CS Discoveries course, offers free Arduino kits to participating classrooms
+- https://www.adafruit.com/?q=code.org& | Adafruit Industries, Unique & fun DIY electronics and kits
+- https://code.org/educate/csd | CS Discoveries | Code.org
+- https://code.org/educate/curriculum/elementary-school | CS Fundamentals for grades K-5 | Code.org
+- https://studio.code.org/s/course4 | Code.org
+- https://code.org/educate/csd | CS Discoveries | Code.org
+- https://studio.code.org/courses/csd | Code.org
+- https://studio.code.org/s/csd6 | Code.org
+- https://studio.code.org/s/csd4 | Code.org
 
 ### Jump in
 - https://studio.code.org/projects/artist/QvznYNmx3UqGTpSfTLQwDt8j7kFGdgkWtgSccd8RvZs
