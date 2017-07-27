@@ -10,8 +10,13 @@
 5. Android
 6. iOS
 
+### Practices
+- Pair Programming
+  - GClass Lesson
 
 ### Links
+- [2016 Hour of Code activities at Code.org](http://blog.janzeteachesit.net/2016/12/20161206-hour-of-code-2016.html)
+- [Khanacademy Coach's Dashboard](https://www.khanacademy.org/coach/dashboard)
 - [free online robot simulator blockly - Google Search](https://www.google.ca/search?rlz=1C1CHBF_enCA700CA700&q=free+online+robot+simulator+blockly&spell=1&sa=X&ved=0ahUKEwjf6eeb6KfVAhXCh1QKHZG-CYYQvwUIJSgA&biw=1680&bih=954)
 - [Physics Game: Design a Walking Robot - Free Online Games - Educational](http://skunksoup.com/2012/01/free-online-games/skill-chance/physics/rag-doll/walkinator-design-a-walking-robot)
 - [Robot Games for Education in Robotics](http://www.opraus.com/robot-game/)
