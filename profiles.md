@@ -1,6 +1,7 @@
 # Where to find me
 
 - [Piskel](http://www.piskelapp.com/user/5286917262278656)
+- [Slack](https://janzeteachesit.slack.com/team/janzeteachesit)
 
 ## Other GitHub Stuff
 * [Redefining the Classroom](https://github.com/janzeteachesit/redefining-the-classroom)
