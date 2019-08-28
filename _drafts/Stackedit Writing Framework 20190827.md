@@ -42,7 +42,9 @@ Love==>Dog((Dog))
 Cat==Cuddles With==>Teddy((Teddy Bear))
 Dog==Protects==>Owner((Owner))
 style Love fill:pink, stroke: red, stroke-width: 10px
-style Ca
+style Cat fill: yellow, stroke: orange, stroke-width: 8px
+style Dog fill: green, stroke: white, stroke-width: 8px
+```
 
 > Save on Google Drive
 >   - folder id: 1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI
@@ -60,6 +62,6 @@ style Ca
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY1MTY1ODAsMTUxMjQzNDc3OSwtNT
-U3OTYwMjYzLC0xMzMxMDAzMTA3XX0=
+eyJoaXN0b3J5IjpbMTcyNTY3OTM3OSwxNTEyNDM0Nzc5LC01NT
+c5NjAyNjMsLTEzMzEwMDMxMDddfQ==
 -->
