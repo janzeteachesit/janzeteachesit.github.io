@@ -26,6 +26,10 @@ Key docs:
   - figures  
 - requirements.txt
 
+##### An example of a sequence chart
+``` mermaid
+graph LR
+Sarah(Sarah) ==> |Talks to| Janice((Janzice))
 
 > Save on Google Drive
 >   - folder id: 1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI
@@ -43,6 +47,6 @@ Key docs:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjQzNDc3OSwtNTU3OTYwMjYzLC0xMz
-MxMDAzMTA3XX0=
+eyJoaXN0b3J5IjpbMjE0MjExNTc3MiwxNTEyNDM0Nzc5LC01NT
+c5NjAyNjMsLTEzMzEwMDMxMDddfQ==
 -->
