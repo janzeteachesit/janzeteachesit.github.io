@@ -1,7 +1,7 @@
 
-## [BasicStackedit Writing Framework - 20190827 - Stackedit](https://docs.google.com/document/d/1_Bb7UnbNht29Wan-CP-i0azVvWnIsK54XoDL0-KnVVs/edit#)
+## [BasicStackedit Writing Framework - 20190827 - Stackedit](https://drive.google.com/open?id=16UU7IX9VPWWR9Q0gPX9PgrIq7YBAY-n2)
 
-[1-WritingInProgress - GFolder](https://drive.google.com/open?id=1yCZwvnFH02hLj9OjCDYOIHOZbzPzaKpW)
+[1-WritingInProgress - GFolder](https://drive.google.com/drive/folders/1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI)
 
 ### Purpose
 
@@ -30,5 +30,6 @@ Key docs:
 1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Nzk2MDI2MywtMTMzMTAwMzEwN119
+eyJoaXN0b3J5IjpbMTU3MzM3NDU0NiwtNTU3OTYwMjYzLC0xMz
+MxMDAzMTA3XX0=
 -->
