@@ -27,12 +27,16 @@ Key docs:
 - requirements.txt
 
 
-> Save on Google Drive: 1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI
-> Save on Github repo: https://github.com/janzeteachesit/janzeteachesit.github.io
->   path: _drr
+> Save on Google Drive
+>   - folder id: 1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI
+>   
+> Save on Github 
+>  - repo: https://github.com/janzeteachesit/janzeteachesit.github.io
+>   - path: _drafts/
+>   - branch: stackedit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTg4NjYwOCwtNTU3OTYwMjYzLC0xMz
-MxMDAzMTA3XX0=
+eyJoaXN0b3J5IjpbLTEzMTY4MzkxNTgsLTU1Nzk2MDI2MywtMT
+MzMTAwMzEwN119
 -->
