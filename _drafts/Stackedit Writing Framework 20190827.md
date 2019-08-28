@@ -34,9 +34,12 @@ Key docs:
 >  - repo: https://github.com/janzeteachesit/janzeteachesit.github.io
 >   - path: _drafts/
 >   - branch: stackedit
+>    
+>    Publish to Blogger
+>    Publish to Wordpress
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY4MzkxNTgsLTU1Nzk2MDI2MywtMT
-MzMTAwMzEwN119
+eyJoaXN0b3J5IjpbMTA0ODMwNjMxNSwtNTU3OTYwMjYzLC0xMz
+MxMDAzMTA3XX0=
 -->
