@@ -29,7 +29,11 @@ Key docs:
 ##### An example of a sequence chart
 ``` mermaid
 graph LR
-Sarah(Sarah) ==> |Talks to| Janice((Janzice))
+Sarah(Sarah) ==> |Talks to| Janice((Janice))
+Janice--updates--> Bob{Bob}
+Janice--mesages--> Larry
+```
+##### An example of a top
 
 > Save on Google Drive
 >   - folder id: 1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI
@@ -47,6 +51,6 @@ Sarah(Sarah) ==> |Talks to| Janice((Janzice))
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjExNTc3MiwxNTEyNDM0Nzc5LC01NT
-c5NjAyNjMsLTEzMzEwMDMxMDddfQ==
+eyJoaXN0b3J5IjpbLTE4MDUwMzU5OTQsMTUxMjQzNDc3OSwtNT
+U3OTYwMjYzLC0xMzMxMDAzMTA3XX0=
 -->
