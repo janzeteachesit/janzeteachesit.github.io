@@ -12,7 +12,7 @@ Key docs:
 #### Basic Project Structure
 - AUTHORS.md  
 - LICENSE  
--  README.md
+- README.md
 - docs  
   1  final
   2  drafts
@@ -30,5 +30,5 @@ Key docs:
 1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzEwMDMxMDddfQ==
+eyJoaXN0b3J5IjpbLTU1Nzk2MDI2MywtMTMzMTAwMzEwN119
 -->
