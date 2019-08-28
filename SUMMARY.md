@@ -1,4 +1,4 @@
-- [20190827](_posts/20190827.md)
+- [20190827](_posts/2019-08-27-stackedit-framework.md)
 - [summer 2017](_posts/2017-06-15-summer-2017-prep.md)
 - [20170617](_posts/2017-06-17-june-17.md)
 - [20170615](_posts/2017-06-15-june-15.md)
