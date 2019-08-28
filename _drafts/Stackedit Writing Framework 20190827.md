@@ -36,10 +36,12 @@ Key docs:
 >   - branch: stackedit
 >    
 >    Publish to Blogger
+>    blog url: https://blog.janzeteachesit.net
 >    Publish to Wordpress
+>    - domain: welcome.janzeteachesit.net
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODMwNjMxNSwtNTU3OTYwMjYzLC0xMz
-MxMDAzMTA3XX0=
+eyJoaXN0b3J5IjpbLTE4NjE3NTQ4ODgsLTU1Nzk2MDI2MywtMT
+MzMTAwMzEwN119
 -->
