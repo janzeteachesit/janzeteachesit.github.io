@@ -40,7 +40,9 @@ Love((Love))
 Love==>Cat((Cat))
 Love==>Dog((Dog))
 Cat==Cuddles With==>Teddy((Teddy Bear))
-Dog=
+Dog==Protects==>Owner((Owner))
+style Love fill:pink, stroke: red, stroke-width: 10px
+style Ca
 
 > Save on Google Drive
 >   - folder id: 1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI
@@ -58,6 +60,6 @@ Dog=
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTIxMDI3MywxNTEyNDM0Nzc5LC01NT
-c5NjAyNjMsLTEzMzEwMDMxMDddfQ==
+eyJoaXN0b3J5IjpbLTEwNjY1MTY1ODAsMTUxMjQzNDc3OSwtNT
+U3OTYwMjYzLC0xMzMxMDAzMTA3XX0=
 -->
