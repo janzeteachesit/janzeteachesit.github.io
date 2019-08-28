@@ -33,7 +33,14 @@ Sarah(Sarah) ==> |Talks to| Janice((Janice))
 Janice--updates--> Bob{Bob}
 Janice--mesages--> Larry
 ```
-##### An example of a top
+##### An example of a top-down chart
+```mermaid
+graph TD
+Love((Love))
+Love==>Cat((Cat))
+Love==>Dog((Dog))
+Cat==Cuddles With==>Teddy((Teddy Bear))
+Dog=
 
 > Save on Google Drive
 >   - folder id: 1Sq9wYOzPzrTaSoeIcBa-4X1OetmYKgLI
@@ -51,6 +58,6 @@ Janice--mesages--> Larry
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUwMzU5OTQsMTUxMjQzNDc3OSwtNT
-U3OTYwMjYzLC0xMzMxMDAzMTA3XX0=
+eyJoaXN0b3J5IjpbLTM5OTIxMDI3MywxNTEyNDM0Nzc5LC01NT
+c5NjAyNjMsLTEzMzEwMDMxMDddfQ==
 -->
